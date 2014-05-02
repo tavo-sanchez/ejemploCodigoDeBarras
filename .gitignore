@@ -29,7 +29,7 @@ tignore for Grails 1.2 and 1.3
 # "temporary" build files
 /targe
 
-.idea
+.idea/
 *.class
 .project
 .classpath
