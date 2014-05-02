@@ -27,7 +27,7 @@ tignore for Grails 1.2 and 1.3
 /web-app/plugins
 
 # "temporary" build files
-/targe
+/target
 
 .idea/
 *.class

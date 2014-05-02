@@ -2,12 +2,12 @@ package com.barcode
 
 class Person {
 
-    String id
+    Integer id
     String name
     String lastName
     Integer age
     String address
-    byte[] barcode
+    String barcodeHash
 
     static constraints = {
     }
